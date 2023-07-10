@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moataz M. Ewis</h1>
 <h3 align="center"> ⬛️ SWE Intern @ Vodafone | Entry level MERN Developer | Google DSC MENA '23 Lead @ Hurghada | Founder @ ICPC HUN Community | ACPC Coach</h3>
-![Pink   Blue Futuristic Gaming Channel Youtube Intro](https://github.com/moataz2002/moataz2002/assets/56417884/2a2a6e5b-07ee-481b-a68a-71ac221c3599)
+<img src="https://github.com/moataz2002/moataz2002/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.gif" alt="Your GIF description">
+
 - 📝 I regularly write articles on [JavaScript and C++](JavaScript and C++)
 
 - 📫 How to reach me **mezzo.m.2030@gmail.com**
