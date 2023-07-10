@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moataz M. Ewis</h1>
 <h3 align="center"> ⬛️ SWE Intern @ Vodafone | Entry level MERN Developer | Google DSC MENA '23 Lead @ Hurghada | Founder @ ICPC HUN Community | ACPC Coach</h3>
-(https://github.com/moataz2002/moataz2002/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.gif)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataz2002" alt="moataz2002" /></a> </p>
-
+!(https://github.com/moataz2002/moataz2002/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.gif)
 - 📝 I regularly write articles on [JavaScript and C++](JavaScript and C++)
 
 - 📫 How to reach me **mezzo.m.2030@gmail.com**
