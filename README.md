@@ -2,10 +2,10 @@
 <h3 align="center"> ⬛️ SWE Intern @ Vodafone | Entry level MERN Developer | Google DSC MENA '23 Lead @ Hurghada | Founder @ ICPC HUN Community | ACPC Coach</h3>
 <img src="https://github.com/moataz2002/moataz2002/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.gif" alt="Your GIF description">
 
-- 📝 I regularly write articles on [JavaScript and C++](JavaScript and C++)
+- 📝 Regularly write articles on **JavaScript** and **C++**
 
-- 📫 How to reach me **mezzo.m.2030@gmail.com**
-
+- 📫 Reach me Via **mezzo.m.2030@gmail.com**
+<center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moataz-ewis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moataz-ewis/" height="30" width="40" /></a>
@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moataz2002&show_icons=true&locale=en&layout=compact" alt="moataz2002" /></p>
 
-
+</center>
 
