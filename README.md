@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moataz M. Ewis</h1>
 <h3 align="center"> ⬜ SWE Intern @ Vodafone | Entry level MERN Developer | Google DSC MENA '23 Lead @ Hurghada | Founder @ ICPC HUN Community | ACPC Coach</h3>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=d522ef&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;JavaScript+Developer;Computer+Science+Student;ACPC+Coach;MERN+Developer;" alt="Typing SVG" /></a>
 <img src="https://github.com/moataz2002/moataz2002/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.gif" alt="Your GIF description">
 <br>
 
