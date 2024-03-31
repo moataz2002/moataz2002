@@ -12,6 +12,7 @@
 </div>
 <br>
 - 📝 Regularly write articles on JavaScript and C++
+<br>
 - ✉ Reach me Via mezzo.m.2030@gmail.com
 <br>
 <center> <h3 align="center">👔 Connect with me:</h3>
