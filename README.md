@@ -3,7 +3,14 @@
 
 <img src="https://github.com/moataz2002/moataz2002/blob/main/me.gif" alt="Your GIF description">
 <br>
+  <p>Profile Visitors</p>
+  <img align="center" src = "https://profile-counter.glitch.me/moataz2002/count.svg" alt ="Loading">
+  <br><br>
 
+  [![committers.top badge](https://user-badge.committers.top/egypt_public/moataz2002.svg)](https://user-badge.committers.top/egypt_public/moataz2002)
+  
+</div>
+<br>
 - 📝 Regularly write articles on JavaScript and C++
 - ✉ Reach me Via mezzo.m.2030@gmail.com
 <br>
