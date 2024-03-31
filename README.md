@@ -3,6 +3,7 @@
 
 <img src="https://github.com/moataz2002/moataz2002/blob/main/me.gif" alt="Your GIF description">
 <br>
+<div>
  <center>
   <p>Profile Visitors</p>
   <img align="center" src = "https://profile-counter.glitch.me/moataz2002/count.svg" alt ="Loading">
