@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moataz M. Ewis</h1>
-<h3 align="center"> ⬜ SDE @ Update Ltd. | EX- SWE Intern @ Vodafone | Backend Developer | Google DSC MENA '23 Lead @ Hurghada | Founder @ ICPC HUN Community | ACPC Coach</h3>
+<h3 align="center"> ⬜ SDE @ Update Ltd. | EX- SWE Intern @ Vodafone | Backend Developer | Google DSC MENA '23 Lead @ Hurghada | Founder @ ICPC HUN Community | CP Coach</h3>
 
 <img src="https://github.com/moataz2002/moataz2002/blob/main/me.gif" alt="Your GIF description">
 
